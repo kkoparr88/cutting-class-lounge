@@ -1,0 +1,7 @@
+{
+  "name": "Cutting Class Lounge",
+  "description": "A cinematic, premium barbershop experience with urban edge and modern style.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
